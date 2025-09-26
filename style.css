@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  width: 300px;
+}
+
+.card {
+  background-color: blueviolet;
+  border: 10px solid black;
+}
+
+.card2 {
+  background-color: blue;
+  border: 10px solid black;
+}
+
+.card3 {
+  background-color: paleturquoise;
+  border: 10px solid black;
+}
+
+.card4 {
+  background-color: red;
+  border: 10px solid black;
+}
+
+.card5 {
+  background-color: black;
+  border: 10px solid black;
+}
+
+#bt1 {
+  background-color: grey;
+}
+
+#bt2 {
+  background-color: grey;
+}
+
+#bt3 {
+  background-color: grey;
+}
+
+#bt4 {
+  background-color: grey;
+}
+
+#bt5 {
+  background-color: grey;
+}/*# sourceMappingURL=style.css.map */
